@@ -19,7 +19,8 @@ source bin/activate
 
 pip install youtube_dl, bs4, selenium
 
-- Create a music file. Its format is the following
+- Create a music file. Its format is the following:
+
 Recommended, after all is going to be the query on youtube so
 even if it is wrong youtube will fix it ;)
 
