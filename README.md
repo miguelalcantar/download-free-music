@@ -34,6 +34,6 @@ so, in the command line:
 cat > music.txt
 <<here goes all your songs>>
 
--Finally download the music:
+- Finally download the music:
 
 python download-music.py
