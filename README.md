@@ -33,7 +33,7 @@ Joy Division - Leave Me Alone
 so, in the command line:
 
 cat > music.txt
-<<here goes all your songs>>
+<here goes all your songs>
 
 - Finally download the music:
 
